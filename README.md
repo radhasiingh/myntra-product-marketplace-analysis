@@ -1,100 +1,155 @@
 # Myntra Product & Marketplace Analysis  
 **Excel + Power BI Capstone Project**
 
-## 📌 Project Overview
+---
 
-This project is an end-to-end **data analytics capstone** built using a real-world, scraped Myntra product catalog dataset.
-The focus of this project is **catalog and marketplace analysis**, rather than sales or revenue forecasting.
+## Project Overview
 
-## 🎯 Business Questions Addressed
+This project analyzes Myntra’s product catalog using a cleaned, structured dataset built from scraped product listings.  
+The objective is to understand **how the marketplace is structured** in terms of pricing, discounting, brand presence, product attributes, and customer ratings.
 
-This analysis was designed to answer practical business questions such as:
+The analysis focuses on **catalog behavior and positioning**, not sales, revenue, or profitability.
 
-- How is Myntra’s product catalog distributed across price ranges?
-- Which brands dominate the catalog by volume?
-- Do heavy discounts actually improve customer ratings?
-- How do pricing and discounts vary across brands and product attributes?
-- Does a higher price consistently lead to better customer perception?
+---
+
+## What This Analysis Explores
+
+The dashboards are designed to answer questions such as:
+
+- How is the product catalog distributed across different price ranges?
+- How are products spread across customer rating categories?
+- Which brands dominate the catalog by size and discounting strategy?
+- Does heavy discounting lead to better customer ratings?
+- How do price, discount, and ratings vary across product fit types?
+
+Each dashboard page addresses one of these questions.
+
+---
 
 ## Dataset Summary
 
-- **Source:**: [**Order Details**](https://github.com/radhasiingh/Power-BI-Project-1/blob/main/Details.csv)
-- **Size:** ~52,120 raw product records
-- **Nature:** Publicly available product metadata
+- **Source:** Scraped Myntra product listings (public product metadata)
+- **Size:** ~52,000 raw product records
+- **Final Analytical Dataset:** ~16,900 cleaned products
+- **Nature:** Static snapshot (no date or time dimension)
+
+---
 
 ## Data Cleaning & Preparation (Excel)
 
-Excel was used as the first stage of the analytics workflow, closely mirroring real industry practices.
+Excel was used as the first stage of analysis to clean, standardize, and prepare the data for BI consumption.
 
-### Key Steps Performed
-- Removed duplicate and invalid product records  
-- Converted price, MRP, ratings, and review counts to numeric formats  
-- Recalculated discount percentage using a consistent formula  
-- Standardised brand names using text functions  
-- Extracted product attributes (fit, fabric, wash type) from descriptions  
-- Handled missing and inconsistent values  
-- Created analytical buckets for:
+Key steps included:
+- Removing duplicate and invalid product records  
+- Converting price, MRP, ratings, and review counts to numeric formats  
+- Recalculating discount percentage using a consistent formula  
+- Standardizing brand names  
+- Extracting product attributes (fit, fabric, wash type) from descriptions  
+- Handling missing and inconsistent values  
+- Creating analytical buckets:
   - Price ranges  
-  - Rating categories 
+  - Rating categories  
 
-## 📊 Power BI Dashboard
+The final output was a single, clean dataset suitable for Power BI analysis.
 
-The cleaned dataset was loaded into Power BI to build an interactive, business-ready dashboard.
+---
 
-### Dashboard Pages
+## Power BI Dashboard Structure
 
-#### 1️⃣ Marketplace Overview
-- Total products & brands
-- Average price and discount
-- Weighted average rating
-- Product distribution by price and rating buckets
+### 1️⃣ Marketplace Overview
 
-![Marketplace Overview](https://github.com/radhasiingh/myntra-product-marketplace-analysis/blob/main/overview.png)
+**Purpose:** Provide a high-level snapshot of the marketplace.
 
-#### 2️⃣ Brand-Level Catalog & Positioning
-- Top brands by catalog size
-- Top brands by average discount
+This page shows:
+- Total number of products and brands
+- Average listed price and average discount
+- Weighted average customer rating
+- Distribution of products across:
+  - Price ranges
+  - Rating categories
+
+This establishes overall pricing, discount intensity, and customer sentiment patterns.
+
+![Marketplace Overview](overview.png)
+
+---
+
+### 2️⃣ Brand-Level Catalog & Positioning
+
+**Purpose:** Understand how brands compete within the marketplace.
+
+This page analyzes:
+- Top brands by catalog size (product count)
+- Top brands by average listed discount
 - Brand positioning using:
   - Average price
   - Weighted average rating
-  - Product count
+  - Product count (bubble size)
 
- ![Brand Analysis](https://github.com/radhasiingh/myntra-product-marketplace-analysis/blob/main/brands.png)
+Reference lines highlight platform-wide averages to enable relative comparison.
 
-#### 3️⃣ Pricing & Discount Behavior
-- Discount intensity across price segments
-- Rating comparison across discount levels
-- Identification of discount-heavy catalog segments
+![Brand-Level Analysis](brands.png)
 
-![Pricing & Discount](https://github.com/radhasiingh/myntra-product-marketplace-analysis/blob/main/pricing_and_discount.png)
+---
 
-#### 4️⃣ Fit-Based Product Performance
-- Product distribution by fit type
-- Average price and discount by fit
-- Price vs rating relationship across fits
+### 3️⃣ Pricing & Discount Behavior
 
-![Fit Analysis](https://github.com/radhasiingh/myntra-product-marketplace-analysis/blob/main/fit.png)
+**Purpose:** Examine how discounting relates to pricing and customer ratings.
 
-## 🧠 Key Insights
+This page explores:
+- Average discount across price segments
+- Distribution of products by discount level
+- Customer ratings across discount buckets
+- Rating difference between low-discount and very-high-discount products
 
-- A small number of brands contribute a disproportionately large share of the catalog
-- Heavy discounting does **not** consistently lead to better customer ratings
-- Mid-priced products often achieve competitive ratings without extreme discounts
-- Higher prices do not always guarantee higher perceived quality
+The analysis shows how discount intensity varies across the catalog and how customer perception changes with discount levels.
 
-## ⚠️ Assumptions & Limitations
+![Pricing & Discount Analysis](pricing_and_discount.png)
 
-- No sales or revenue data available
+---
+
+### 4️⃣ Fit-Based Product Performance
+
+**Purpose:** Analyze product performance across different fit types.
+
+This page covers:
+- Distribution of products by fit type
+- Average price by fit
+- Average discount by fit
+- Price vs rating comparison across fits
+
+This helps identify how pricing, discounting, and customer perception differ across product attributes.
+
+![Fit-Based Analysis](fit.png)
+
+---
+
+## Key Observations from the Analysis
+
+- The catalog is concentrated in mid-price ranges rather than extremes
+- Most products fall into the “Good” and “Average” rating categories
+- A small number of brands contribute a large share of total listings
+- Heavy discounting is common but does not consistently improve ratings
+- Moderate discount levels are associated with slightly higher customer ratings
+- Higher-priced products do not always receive higher ratings
+- Certain fit types are priced more premium but still rely on discounts
+
+---
+
+## Assumptions & Limitations
+
+- No sales, revenue, or quantity data is available
 - Ratings are treated as post-purchase customer sentiment
 - Discounts analyzed are listed discounts, not realized transaction discounts
-- Product attributes are extracted from free-text descriptions and may not be fully accurate
+- Product attributes are extracted from free-text descriptions and may contain inaccuracies
+- The dataset represents a static snapshot, not time-based trends
 
-## Tools & Skills Demonstrated
+---
 
-- **Excel:** Data cleaning, text functions, logical functions, PivotTables, EDA  
-- **Power BI:** Data modeling, DAX measures, dashboard design  
-- **Analytical Skills:** Business reasoning, KPI design, insight communication  
+## Tools Used
 
-> ⚠️ *Disclaimer:*  
-> This dataset is used strictly for learning and portfolio purposes.  
-> It does **not** represent actual Myntra sales data or internal business metrics.
+- **Excel:** Data cleaning, transformation, EDA
+- **Power BI:** Data modeling, DAX measures, interactive dashboards
+
+> **Disclaimer**  
+> This project is for learning and portfolio demonstration purposes only and does not represent internal Myntra business data.
