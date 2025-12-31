@@ -19,9 +19,12 @@ The dashboards are designed to answer questions such as:
 
 ## Dataset Summary
 
-- **Source:** Scraped Myntra product listings (public product metadata)
-- **Size:** ~52,000 raw product records
-- **Final Analytical Dataset:** ~16,900 cleaned products
+- **Source:** The data for this project is sourced from the Kaggle dataset
+  Link: [Myntra Sales Dataset](https://www.kaggle.com/datasets/skmewati/myntra-sales-dataset)
+- **Total Rows:** 52,120
+- **Total Columns:** 8
+- **Final Analytical Dataset:** 16,928 cleaned rows
+  
 ## Data Cleaning & Preparation (Excel)
 
 Excel was used as the first stage of analysis to clean, standardise, and prepare the data for BI consumption.
