@@ -73,7 +73,7 @@ The cleaned dataset was loaded into Power BI to build an interactive, business-r
 - Average price and discount by fit
 - Price vs rating relationship across fits
 
-![Fit Analysis](visuals/fit_analysis.png)
+![Fit Analysis]([visuals/fit_analysis.png](https://github.com/radhasiingh/myntra-product-marketplace-analysis/blob/main/fit.png))
 
 ## 🧠 Key Insights
 
