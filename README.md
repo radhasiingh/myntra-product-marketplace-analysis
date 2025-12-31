@@ -49,7 +49,7 @@ The cleaned dataset was loaded into Power BI to build an interactive, business-r
 - Weighted average rating
 - Product distribution by price and rating buckets
 
-![Marketplace Overview](visuals/dashboard_overview.png)
+![Marketplace Overview](https://github.com/radhasiingh/myntra-product-marketplace-analysis/blob/main/overview.png)
 
 #### 2️⃣ Brand-Level Catalog & Positioning
 - Top brands by catalog size
