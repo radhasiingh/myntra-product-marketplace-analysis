@@ -59,7 +59,7 @@ The cleaned dataset was loaded into Power BI to build an interactive, business-r
   - Weighted average rating
   - Product count
 
- ![Brand Analysis](visuals/brand_analysis.png)
+ ![Brand Analysis](https://github.com/radhasiingh/myntra-product-marketplace-analysis/blob/main/brands.png)
 
 #### 3️⃣ Pricing & Discount Behavior
 - Discount intensity across price segments
