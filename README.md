@@ -66,7 +66,7 @@ The cleaned dataset was loaded into Power BI to build an interactive, business-r
 - Rating comparison across discount levels
 - Identification of discount-heavy catalog segments
 
-![Pricing & Discount](visuals/pricing_discount.png)
+![Pricing & Discount](https://github.com/radhasiingh/myntra-product-marketplace-analysis/blob/main/pricing_and_discount.png)
 
 #### 4️⃣ Fit-Based Product Performance
 - Product distribution by fit type
