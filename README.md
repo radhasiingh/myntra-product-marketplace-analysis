@@ -22,10 +22,6 @@ This analysis was designed to answer practical business questions such as:
 - **Size:** ~52,120 raw product records
 - **Nature:** Publicly available product metadata
 
-> ⚠️ *Disclaimer:*  
-> This dataset is used strictly for learning and portfolio purposes.  
-> It does **not** represent actual Myntra sales data or internal business metrics.
-
 ## Data Cleaning & Preparation (Excel)
 
 Excel was used as the first stage of the analytics workflow, closely mirroring real industry practices.
@@ -99,4 +95,6 @@ The cleaned dataset was loaded into Power BI to build an interactive, business-r
 - **Power BI:** Data modeling, DAX measures, dashboard design  
 - **Analytical Skills:** Business reasoning, KPI design, insight communication  
 
-*This repository is part of my analytics portfolio and is intended for learning and demonstration purposes.*
+> ⚠️ *Disclaimer:*  
+> This dataset is used strictly for learning and portfolio purposes.  
+> It does **not** represent actual Myntra sales data or internal business metrics.
