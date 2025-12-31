@@ -1,5 +1,5 @@
 # Myntra Product & Marketplace Analysis  
-**Excel + Power BI Capstone Project**
+## Excel + Power BI Capstone Project
 
 ## Project Overview
 
@@ -55,7 +55,7 @@ This page shows:
 
 ### 2️⃣ Brand-Level Catalog & Positioning
 
-**Purpose:** Understand how brands compete within the marketplace.
+#### Purpose: Understand how brands compete within the marketplace.
 
 This page analyzes:
 - Top brands by catalog size (product count)
@@ -69,7 +69,7 @@ This page analyzes:
 
 ### 3️⃣ Pricing & Discount Behavior
 
-**Purpose:** Examine how discounting relates to pricing and customer ratings.
+#### Purpose: Examine how discounting relates to pricing and customer ratings.
 
 This page explores:
 - Average discount across price segments
@@ -81,7 +81,7 @@ This page explores:
 
 ### 4️⃣ Fit-Based Product Performance
 
-**Purpose:** Analyse product performance across different fit types.
+#### Purpose: Analyse product performance across different fit types.
 
 This page covers:
 - Distribution of products by fit type
