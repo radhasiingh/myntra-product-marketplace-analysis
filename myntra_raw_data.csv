@@ -1,0 +1,201 @@
+brand_name,pants_description,price,MRP,discount_percent,ratings,number_of_ratings,price_num,MRP_num,Number_of_Ratings_num,Fit_Type,is_duplicate
+WROGN,Men Loose Fit Cotton Jeans,1374.0,2499.0,0.45,4.2,57.0,1374.0,2499.0,570,Loose Fit,True
+Flying Machine,Men Slim Fit Jeans,1829.0,2999.0,0.39,4.6,5.0,1829.0,2999.0,50,Slim,True
+Roadster,Men Pure Cotton Jeans,974.0,2499.0,0.61,3.6,1100.0,974.0,2499.0,11000,Pure Cotton,False
+Bene Kleed,Relaxed Fit Denim Jeans,873.0,2299.0,0.62,4.0,4800.0,873.0,2299.0,48000,Relaxed,False
+Levis,Men 511 Slim Fit Jeans,1478.0,2899.0,0.49,4.3,264.0,1478.0,2899.0,2640,Slim,True
+HERE&NOW,Men Stretchable Jeans,798.0,1699.0,0.53,4.0,33.0,798.0,1699.0,330,Stretch,False
+Urbano Fashion,Men Relaxed Fit Jeans,944.0,2099.0,0.55,4.0,4200.0,944.0,2099.0,42000,Relaxed,False
+WROGN,Men Anti Fit Jeans,1623.0,2799.0,0.42,4.2,42.0,1623.0,2799.0,420,Anti Fit,True
+Bene Kleed,Men Wide Leg Heavy Fade Jeans,839.0,2799.0,0.7,3.6,114.0,839.0,2799.0,1140,Wide Leg,False
+Bene Kleed,Relaxed Fit Denim Jeans,873.0,2299.0,0.62,4.1,5200.0,873.0,2299.0,52000,Relaxed,False
+Roadster,Men Regular Fit Mid-Rise Jeans,759.0,1899.0,0.6,4.0,63.0,759.0,1899.0,630,Regular,True
+Bene Kleed,Men Bootcut Jeans,873.0,2299.0,0.62,4.0,757.0,873.0,2299.0,7570,Bootcut,False
+Bene Kleed,Men Wide Leg Jeans,857.0,2599.0,0.67,3.6,152.0,857.0,2599.0,1520,Wide Leg,False
+Flying Machine,Slim Fit Stretchable Jeans,1829.0,2999.0,0.39,3.6,152.0,1829.0,2999.0,1520,Slim,False
+styzon,Men Jogger Mid-Rise Jeans,899.0,3599.0,0.75,4.1,64.0,899.0,3599.0,640,Jogger,False
+Roadster,Cotton Ecru Straight Fit Jeans,949.0,2499.0,0.62,3.8,80.0,949.0,2499.0,800,Ecru,False
+Calvin Klein Jeans,Men Slim Fit Jeans,949.0,2499.0,0.62,3.8,80.0,949.0,2499.0,800,Slim,False
+styzon,Men Relaxed Fit Jeans,989.0,1799.0,0.45,3.9,42.0,989.0,1799.0,420,Relaxed,False
+Bene Kleed,Men Bootcut Jeans,850.0,2299.0,0.63,3.9,1000.0,850.0,2299.0,10000,Bootcut,False
+WROGN,Men Slim Fit Stretchable Jeans,1275.0,2199.0,0.42,4.2,130.0,1275.0,2199.0,1300,Slim,True
+HIGHLANDER,Men Relaxed Fit Mid-Rise Jeans,769.0,2749.0,0.72,3.6,432.0,769.0,2749.0,4320,Relaxed,False
+Bene Kleed,Men Mid-Rise Boot Cut Jeans,873.0,2299.0,0.62,4.0,591.0,873.0,2299.0,5910,Mid-Rise,False
+Flying Machine,Men Relaxed Fit Jeans,2309.0,3499.0,0.34,4.0,591.0,2309.0,3499.0,5910,Relaxed,False
+WROGN,Men Pure Cotton Loose Jeans,1449.0,2499.0,0.42,3.9,111.0,1449.0,2499.0,1110,Pure Cotton,False
+Urbano Fashion,Men Relaxed Fit Jeans,1034.0,2299.0,0.55,3.6,618.0,1034.0,2299.0,6180,Relaxed,False
+Levis,Men 511 Slim Fit Jeans,2079.0,3999.0,0.48,3.9,31.0,2079.0,3999.0,310,Slim,True
+Kotty,Men Low-Rise Jeans,519.0,1999.0,0.74,3.7,1500.0,519.0,1999.0,15000,Low-Rise,False
+Bene Kleed,Men Relaxed Fit Jeans,873.0,2299.0,0.62,4.1,4200.0,873.0,2299.0,42000,Relaxed,False
+Flying Machine,Men Slim Fit Jeans,1549.0,2499.0,0.38,4.1,4200.0,1549.0,2499.0,42000,Slim,False
+Roadster,Men Wide Leg Jeans,999.0,2499.0,0.6,3.4,53.0,999.0,2499.0,530,Wide Leg,False
+Kotty,Men Straight Fit Jeans,719.0,1999.0,0.64,3.8,61.0,719.0,1999.0,610,Straight Fit,False
+WROGN,Men Anti Fit Jeans,1399.0,2799.0,0.5,4.1,25.0,1399.0,2799.0,250,Anti Fit,True
+Mast & Harbour,Men Bootcut Jeans,869.0,2999.0,21.3,4.1,211.0,869.0,2999.0,2110,Bootcut,False
+Kotty,Men Low-Rise Cargo  Jeans,639.0,1999.0,0.68,4.2,2000.0,639.0,1999.0,20000,Low-Rise,False
+Mufti,Men Mid-Rise Skinny Fit Jeans,1393.0,3399.0,0.59,3.8,16.0,1393.0,3399.0,160,Mid-Rise,True
+Mast & Harbour,Men Stretchable Jeans,758.0,2299.0,0.67,3.4,441.0,758.0,2299.0,4410,Stretch,False
+Urbano Fashion,Men Slim Fit Jeans,629.0,1399.0,0.55,4.0,22300.0,629.0,1399.0,223000,Slim,False
+FUGAZEE,Men Relaxed Fit Jeans,2099.0,3499.0,0.4,3.7,124.0,2099.0,3499.0,1240,Relaxed,True
+The Indian Garage Co,Men Slim Fit Mid-Rise Jeans,659.0,1999.0,0.67,4.0,1600.0,659.0,1999.0,16000,Slim,False
+Roadster,Men Black Faded Casual Jeans,774.0,2499.0,0.69,3.5,868.0,774.0,2499.0,8680,Other,False
+French Connection,Men Slim Fit Jeans,1294.0,3499.0,0.63,4.4,17.0,1294.0,3499.0,170,Slim,True
+Mast & Harbour,Men Straight Fit Jeans,764.0,1699.0,0.55,3.5,38.0,764.0,1699.0,380,Straight Fit,False
+Roadster,Men Slim Fit Jeans,681.0,2199.0,0.69,3.8,185.0,681.0,2199.0,1850,Slim,False
+Mufti,Men Slim Fit Jeans,1553.0,4199.0,0.63,3.8,22.0,1553.0,4199.0,220,Slim,True
+Mast & Harbour,Men Slim Tapered Fit Jeans,701.0,2599.0,0.73,3.8,314.0,701.0,2599.0,3140,Slim,False
+The Indian Garage Co,Men Pure Cotton Skater Jeans,688.0,2549.0,0.73,3.7,35.0,688.0,2549.0,350,Pure Cotton,False
+Mufti,Men Super Skinny Fit Jeans,1393.0,3399.0,0.59,3.7,35.0,1393.0,3399.0,350,Skinny,False
+The Indian Garage Co,Men Relaxed Fit Jeans,808.0,2449.0,0.67,3.5,589.0,808.0,2449.0,5890,Relaxed,False
+glitchez,Men Straight Fit Jeans,797.0,1399.0,0.43,4.0,230.0,797.0,1399.0,2300,Straight Fit,False
+Mufti,Men Slim Fit Jeans,1649.0,3299.0,0.5,4.2,5.0,1649.0,3299.0,50,Slim,True
+Mufti,Men Slim Fit Jeans,1649.0,3299.0,0.5,4.2,5.0,1649.0,3299.0,50,Slim,True
+Thomas Scott,Men Bootcut Stretchable Jeans,874.0,3499.0,0.75,3.6,234.0,874.0,3499.0,2340,Bootcut,False
+Mast & Harbour,Men Relaxed Fit Jeans,819.0,2599.0,17.8,3.4,252.0,819.0,2599.0,2520,Relaxed,False
+Mufti,Men Skinny Fit Jeans,1762.0,4299.0,0.59,4.9,7.0,1762.0,4299.0,70,Skinny,True
+HIGHLANDER,Men Cotton Relaxed Fit Jeans,574.0,2299.0,0.75,3.5,234.0,574.0,2299.0,2340,Relaxed,False
+Mast & Harbour,Men Stretchable Jeans,889.0,2999.0,0.7,3.7,189.0,889.0,2999.0,1890,Stretch,False
+Mufti,Men Slim Fit Jeans,1214.0,4499.0,0.73,4.4,43.0,1214.0,4499.0,430,Slim,False
+Urbano Fashion,Men Relaxed Fit Jeans,944.0,2099.0,0.55,3.8,567.0,944.0,2099.0,5670,Relaxed,False
+Bene Kleed,Men Wide Leg High-Rise Jeans,1035.0,2799.0,0.63,3.9,45.0,1035.0,2799.0,450,Wide Leg,False
+Mufti,Men Skinny Fit Jeans,2149.0,4299.0,0.5,3.9,45.0,2149.0,4299.0,450,Skinny,False
+Mast & Harbour,Men Slim Fit Mid-Rise Jeans,764.0,1699.0,0.55,4.0,9.0,764.0,1699.0,90,Slim,False
+HIGHLANDER,Men Relaxed Fit Cotton Jeans,791.0,2399.0,0.67,3.6,2800.0,791.0,2399.0,28000,Relaxed,False
+Mufti,Men Slim Fit Stretchable Jeans,1332.0,4299.0,0.69,3.4,87.0,1332.0,4299.0,870,Slim,False
+Bene Kleed,Men Straight Fit Jeans,989.0,2999.0,0.67,4.1,73.0,989.0,2999.0,730,Straight Fit,False
+V-Mart,Men Straight Fit Jeans,809.0,899.0,0.1,3.5,41.0,809.0,899.0,410,Straight Fit,True
+Flying Machine,Men Relaxed Fit Jeans,1424.0,2499.0,0.43,4.1,8.0,1424.0,2499.0,80,Relaxed,False
+Urbano Fashion,Men Relaxed Fit Cotton Jeans,1079.0,2399.0,0.55,4.0,485.0,1079.0,2399.0,4850,Relaxed,False
+The Indian Garage Co,Men Relaxed Fit Jeans,661.0,2449.0,0.73,3.8,127.0,661.0,2449.0,1270,Relaxed,True
+Levis,Men 511 Slim Fit Jeans,2079.0,3199.0,0.35,4.2,794.0,2079.0,3199.0,7940,Slim,True
+Kotty,Men Regular Fit Mid-Rise Jeans,659.0,1999.0,0.67,3.4,21.0,659.0,1999.0,210,Regular,False
+Urbano Fashion,Men Bootcut Jeans,944.0,2099.0,0.55,4.1,1100.0,944.0,2099.0,11000,Bootcut,False
+Levis,Men Regular Fit Jeans,944.0,2099.0,0.55,4.1,1100.0,944.0,2099.0,11000,Regular,False
+Roadster,Men Relaxed Fit Jeans,645.0,1699.0,0.62,3.6,45.0,645.0,1699.0,450,Relaxed,False
+Mast & Harbour,Men Cotton Regular Fit Jeans,1121.0,2199.0,0.49,1.8,423.0,1121.0,2199.0,4230,Regular,False
+Flying Machine,Men Tapered Fit Jeans,1829.0,2999.0,0.39,1.8,423.0,1829.0,2999.0,4230,Tapered,False
+Bene Kleed,Men Straight Fit Jeans,979.0,3499.0,0.72,3.5,115.0,979.0,3499.0,1150,Straight Fit,False
+Nautica,Men Slim Fit Jeans,1088.0,3299.0,0.67,4.5,30.0,1088.0,3299.0,300,Slim,False
+Flying Machine,Men Micheal Slim Fit Jeans,1559.0,2599.0,0.4,4.1,554.0,1559.0,2599.0,5540,Slim,True
+Bene Kleed,Men High-Rise Baggy Fit Jeans,983.0,2399.0,0.59,3.6,34.0,983.0,2399.0,340,High-Rise,False
+Urbano Fashion,Men Mid Rise Bootcut Jeans,899.0,1999.0,0.55,4.2,1200.0,899.0,1999.0,12000,Bootcut,False
+Mufti,Men Slim Fit Mid-Rise Jeans,1332.0,4299.0,0.69,4.1,24.0,1332.0,4299.0,240,Slim,False
+MASTERLY WEFT,Men Mid-Rise Stretchable Jeans,959.0,1999.0,0.52,3.2,6.0,959.0,1999.0,60,Stretch,False
+Kotty,Men Low-Rise Jeans,619.0,1999.0,0.69,4.4,25.0,619.0,1999.0,250,Low-Rise,False
+Flying Machine,Men Super Skinny Fit Jeans,1649.0,2999.0,0.45,4.4,25.0,1649.0,2999.0,250,Skinny,False
+The Indian Garage Co,Men Slim Fit Jeans,659.0,1999.0,0.67,3.8,1400.0,659.0,1999.0,14000,Slim,False
+glitchez,Men Baggy Loose Jeans,747.0,2199.0,0.66,3.3,65.0,747.0,2199.0,650,Other,False
+Flying Machine,Men Slim Fit Mid-Rise Jeans,1448.0,2299.0,0.37,3.3,65.0,1448.0,2299.0,650,Slim,False
+Mast & Harbour,Relaxed Fit Jeans,831.0,2599.0,0.68,3.6,203.0,831.0,2599.0,2030,Relaxed,False
+Bene Kleed,Men Straight Fit Cotton Jeans,1049.0,2999.0,0.65,3.5,32.0,1049.0,2999.0,320,Straight Fit,False
+Mufti,Men Slim Fit Jeans,2149.0,4299.0,0.5,3.4,5.0,2149.0,4299.0,50,Slim,True
+Roadster,Men Cotton Mid Rise Jeans,919.0,2299.0,0.6,3.9,61.0,919.0,2299.0,610,Mid Rise,False
+HIGHLANDER,Men Wide Leg Cotton Jeans,1099.0,2799.0,17.0,3.9,236.0,1099.0,2799.0,2360,Wide Leg,False
+Flying Machine,Men Slim Fit Jeans,1707.0,2799.0,0.39,3.9,236.0,1707.0,2799.0,2360,Slim,False
+Mast & Harbour,Men Relaxed Fit Jeans,883.0,3399.0,0.74,4.1,703.0,883.0,3399.0,7030,Relaxed,False
+HIGHLANDER,Men Slim Fit Jeans,675.0,1299.0,0.48,3.8,13700.0,675.0,1299.0,137000,Slim,False
+Flying Machine,Men Slim Fit Jeans,1829.0,2999.0,0.39,3.8,13700.0,1829.0,2999.0,137000,Slim,False
+Sztori,Plus Size Stretchable Jeans,863.0,2699.0,0.68,4.4,555.0,863.0,2699.0,5550,Stretch,False
+HERE&NOW,Men Bootcut Jeans,869.0,2499.0,16.3,4.2,374.0,869.0,2499.0,3740,Bootcut,False
+Flying Machine,Non Stretchable Cotton Jeans,1829.0,2999.0,0.39,4.2,374.0,1829.0,2999.0,3740,Stretch,False
+Roadster,Men Pure Cotton Jeans,917.0,3399.0,0.73,4.0,534.0,917.0,3399.0,5340,Pure Cotton,False
+Roadster,Men Straight Fit Jeans,599.0,1499.0,0.6,4.2,80.0,599.0,1499.0,800,Straight Fit,False
+TURMS,30 Days No Wash Jeans,3499.0,4999.0,15.0,3.7,22.0,3499.0,4999.0,220,Other,False
+Roadster,Men Cotton Baggy-Fit Jeans,1024.0,2499.0,0.59,3.9,355.0,1024.0,2499.0,3550,Other,False
+Bene Kleed,Mid-Rise Heavy Fade Jeans,989.0,2999.0,0.67,3.5,100.0,989.0,2999.0,1000,Mid-Rise,False
+Flying Machine,Men Slim Fit Cotton Jeans,1829.0,2999.0,0.39,3.5,100.0,1829.0,2999.0,1000,Slim,False
+WROGN,Men Slim Fit Jeans,919.0,2299.0,0.6,4.5,15.0,919.0,2299.0,150,Slim,False
+Roadster,Men Pure Cotton Jeans,725.0,2199.0,0.67,3.9,225.0,725.0,2199.0,2250,Pure Cotton,False
+WROGN,Men Relaxed Fit Mid-Rise Jeans,1594.0,2899.0,0.45,4.3,25.0,1594.0,2899.0,250,Relaxed,False
+Nautica,Men Straight Fit Jeans,1385.0,3299.0,0.58,4.4,76.0,1385.0,3299.0,760,Straight Fit,False
+WROGN,Men Anti fit Light Fade Jeans,1268.0,2699.0,0.53,4.2,37.0,1268.0,2699.0,370,Anti Fit,False
+Flying Machine,Men Slim Fit Jeans,1471.0,2299.0,0.36,4.2,37.0,1471.0,2299.0,370,Slim,False
+HIGHLANDER,Men Tapered Fit Jeans,769.0,1149.0,0.33,3.6,2100.0,769.0,1149.0,21000,Tapered,False
+Roadster,Men Straight Fit Jeans,1074.0,2499.0,0.57,3.9,58.0,1074.0,2499.0,580,Straight Fit,False
+Mufti,Men Skinny Fit Jeans,2099.0,4199.0,0.5,3.9,58.0,2099.0,4199.0,580,Skinny,False
+Roadster,Men Cotton Straight Fit Jeans,979.0,3499.0,0.72,3.5,195.0,979.0,3499.0,1950,Straight Fit,False
+The Indian Garage Co,Men Relaxed Fit Jeans,857.0,2599.0,0.67,3.7,328.0,857.0,2599.0,3280,Relaxed,False
+Mufti,Men Slim Fit Stretchable Jeans,1434.0,3499.0,0.59,3.7,328.0,1434.0,3499.0,3280,Slim,False
+Roadster,Baggy Jeans,874.0,2499.0,0.65,3.6,14.0,874.0,2499.0,140,Other,False
+glitchez,Men Wide Leg Jeans,725.0,2199.0,0.67,3.6,68.0,725.0,2199.0,680,Wide Leg,False
+Roadster,Men Slim Fit Mid-Rise Jeans,645.0,1699.0,0.62,3.3,15.0,645.0,1699.0,150,Slim,True
+WROGN,Men Relaxed Fit Jeans,1049.0,2999.0,0.65,4.6,23.0,1049.0,2999.0,230,Relaxed,False
+Levis,Men Slim Fit Mid-Rise Jeans,1304.0,2899.0,0.55,4.1,232.0,1304.0,2899.0,2320,Slim,False
+Flying Machine,Men Slim Fit Jeans,2134.0,3499.0,0.39,4.1,232.0,2134.0,3499.0,2320,Slim,False
+Thomas Scott,Men Relaxed Fit Cotton Jeans,999.0,2599.0,16.0,3.9,1300.0,999.0,2599.0,13000,Relaxed,False
+Red Tape,Men Skinny Fit Jeans,1311.0,6399.0,50.88,4.1,359.0,1311.0,6399.0,3590,Skinny,False
+Flying Machine,Men Relaxed Fit Jeans,1829.0,2999.0,0.39,4.1,359.0,1829.0,2999.0,3590,Relaxed,False
+Mast & Harbour,Men Straight Fit Jeans,764.0,1699.0,0.55,4.5,33.0,764.0,1699.0,330,Straight Fit,False
+Urbano Fashion,Men Relaxed Fit Cotton Jeans,1079.0,2399.0,0.55,3.9,416.0,1079.0,2399.0,4160,Relaxed,False
+Mufti,Men Skinny Fit Jeans,1616.0,3299.0,0.51,3.9,416.0,1616.0,3299.0,4160,Skinny,False
+Mast & Harbour,Men Straight Fit Jeans,827.0,1799.0,0.54,4.2,25.0,827.0,1799.0,250,Straight Fit,False
+Stylecast X Kotty,Men Regular Fit  Jeans,559.0,1999.0,0.72,4.1,79.0,559.0,1999.0,790,Regular,False
+Flying Machine,Men Slim Fit Jeans,1471.0,2299.0,0.36,4.1,79.0,1471.0,2299.0,790,Slim,False
+HERE&NOW,Bootcut Jeans,929.0,2599.0,16.7,3.9,380.0,929.0,2599.0,3800,Bootcut,False
+MAAHIT,Men Baggy Mid-Rise Jeans,689.0,2999.0,0.77,2.6,14.0,689.0,2999.0,140,Mid-Rise,False
+The Indian Garage Co,Men Bootcut Jeans,808.0,2449.0,0.67,3.4,233.0,808.0,2449.0,2330,Bootcut,False
+glitchez,Men Carrot Fit Jeans,713.0,1699.0,0.58,4.2,19.0,713.0,1699.0,190,Other,False
+Mufti,Men Skinny Fit Jeans,1499.0,2999.0,0.5,4.2,5.0,1499.0,2999.0,50,Skinny,True
+FUDE PRIDE,Men Mid-Rise Light Fade Jeans,689.0,2999.0,0.77,3.9,35.0,689.0,2999.0,350,Mid-Rise,False
+Bene Kleed,Men Heavy Fade Jeans,839.0,2999.0,0.72,3.9,117.0,839.0,2999.0,1170,Other,False
+Flying Machine,Men Relaxed Fit Jeans,1402.0,2299.0,0.39,3.9,117.0,1402.0,2299.0,1170,Relaxed,False
+HERE&NOW,Men Cargo Baggy Mid-Rise Jeans,1325.0,3899.0,0.66,2.9,10.0,1325.0,3899.0,100,Mid-Rise,False
+Mast & Harbour,Men Slim Fit Mid-Rise Jeans,764.0,1699.0,0.55,4.1,40.0,764.0,1699.0,400,Slim,False
+Flying Machine,Men Slim Fit Cotton Jeans,1599.0,2499.0,0.36,4.1,40.0,1599.0,2499.0,400,Slim,False
+Roadster,Men Cotton Relaxed Fit Jeans,911.0,2399.0,0.62,4.3,20.0,911.0,2399.0,200,Relaxed,False
+StyleCast x Revolte,Wide Leg Medium Shade Jeans,1364.0,3499.0,0.61,3.8,103.0,1364.0,3499.0,1030,Wide Leg,False
+Mufti,Men Slim Fit Corduroy Jeans,1208.0,3899.0,0.69,4.2,56.0,1208.0,3899.0,560,Slim,True
+Roadster,Light Fade Stretchable Jeans,909.0,2599.0,0.65,4.2,56.0,909.0,2599.0,560,Stretch,False
+The Indian Garage Co,Men Straight Fit Jeans,959.0,2399.0,0.6,4.2,496.0,959.0,2399.0,4960,Straight Fit,False
+Roadster,Men Regular Mid-Rise Jeans,645.0,1899.0,0.66,4.1,32.0,645.0,1899.0,320,Regular,False
+WROGN,Men Loose Fit Jeans,1221.0,2599.0,0.53,3.8,58.0,1221.0,2599.0,580,Loose Fit,True
+glitchez,Men Loose Fit Heavy Fade Jeans,615.0,2199.0,0.72,4.2,87.0,615.0,2199.0,870,Loose Fit,False
+Mast & Harbour,Men Straight Fit Jeans,764.0,1699.0,0.55,4.4,31.0,764.0,1699.0,310,Straight Fit,False
+Style Quotient,Men Cotton Cargo Jeans,990.0,2999.0,0.66,4.3,2800.0,990.0,2999.0,28000,Other,False
+Roadster,Men Flared Light Fade Jeans,701.0,2599.0,0.73,3.4,24.0,701.0,2599.0,240,Other,False
+Thomas Scott,Men Clean Look Jeans,819.0,3299.0,24.8,4.0,220.0,819.0,3299.0,2200,Other,False
+Urbano Fashion,Men Relaxed Fit Cotton Jeans,1079.0,2399.0,0.55,3.1,116.0,1079.0,2399.0,1160,Relaxed,False
+The Indian Garage Co,Men Bootcut Jeans,896.0,2299.0,0.61,4.1,151.0,896.0,2299.0,1510,Bootcut,False
+Roadster,Men Straight Fit Mid-Rise Jeans,645.0,1699.0,0.62,3.6,5.0,645.0,1699.0,50,Mid-Rise,False
+Red Tape,Men Skinny Fit Jeans,1379.0,6899.0,0.8,4.4,52.0,1379.0,6899.0,520,Skinny,False
+Bene Kleed,Mid-Rise Baggy Fit Jeans,989.0,2999.0,0.67,3.7,1400.0,989.0,2999.0,14000,Mid-Rise,False
+Thomas Scott,Men Smart Stretchable Jeans,824.0,3299.0,0.75,4.2,99.0,824.0,3299.0,990,Stretch,False
+WROGN,Men Relaxed Fit Jeans,1385.0,2199.0,0.37,4.3,15.0,1385.0,2199.0,150,Relaxed,False
+glitchez,Men Bootcut Jeans,575.0,1599.0,0.64,3.4,59.0,575.0,1599.0,590,Bootcut,False
+Urbano Fashion,Men Relaxed Fit Cargo Jeans,1079.0,2399.0,0.55,4.1,947.0,1079.0,2399.0,9470,Relaxed,False
+Bene Kleed,Men Relaxed Fit Jeans,988.0,2299.0,0.57,4.2,476.0,988.0,2299.0,4760,Relaxed,False
+Urbano Fashion,Men Relaxed Fit Jeans,944.0,2099.0,0.55,4.0,611.0,944.0,2099.0,6110,Relaxed,False
+Bene Kleed,Men Cotton Relaxed Fit Jeans,824.0,3299.0,0.75,4.1,309.0,824.0,3299.0,3090,Relaxed,False
+HIGHLANDER,Men Cotton Relaxed Fit Jeans,574.0,2299.0,0.75,3.7,86.0,574.0,2299.0,860,Relaxed,False
+Mast & Harbour,Men Regular Fit Jeans,827.0,1799.0,0.54,3.9,18.0,827.0,1799.0,180,Regular,False
+Roadster,Men Tapered Fit Jeans,701.0,2699.0,0.74,3.7,987.0,701.0,2699.0,9870,Tapered,False
+glitchez,Men Straight Fit Jeans,611.0,1699.0,0.64,3.9,31.0,611.0,1699.0,310,Straight Fit,False
+The Indian Garage Co,Men Pure Cotton Skater Jeans,728.0,2699.0,0.73,3.7,57.0,728.0,2699.0,570,Pure Cotton,False
+Roadster,Men Straight Fit Jeans,645.0,1699.0,0.62,3.9,34.0,645.0,1699.0,340,Straight Fit,False
+Bene Kleed,Men Relaxed Fit Distress Jeans,951.0,2799.0,0.66,3.8,54.0,951.0,2799.0,540,Relaxed,False
+WROGN,Men Straight Fit Jeans,1325.0,2599.0,0.49,3.9,300.0,1325.0,2599.0,3000,Straight Fit,False
+MAAHIT,Men Mid-Rise Baggy Jeans,689.0,2999.0,0.77,3.1,49.0,689.0,2999.0,490,Mid-Rise,False
+glitchez,Men Wide Leg Jeans,593.0,2199.0,0.73,3.5,65.0,593.0,2199.0,650,Wide Leg,False
+Kotty,Men Low-Rise Jeans,619.0,1999.0,0.69,3.8,859.0,619.0,1999.0,8590,Low-Rise,False
+glitchez,Men Straight Jeans,647.0,2399.0,0.73,3.5,124.0,647.0,2399.0,1240,Other,False
+glitchez,Men Wide Leg Jeans,615.0,2199.0,0.72,3.5,79.0,615.0,2199.0,790,Wide Leg,False
+Thomas Scott,Men Bootcut Jeans,999.0,3499.0,25.0,3.9,401.0,999.0,3499.0,4010,Bootcut,False
+The Indian Garage Co,Men Slim Fit Jeans,659.0,1999.0,0.67,4.1,922.0,659.0,1999.0,9220,Slim,False
+Being Human,Men Slim Fit Jeans,1259.0,2999.0,0.58,4.4,14.0,1259.0,2999.0,140,Slim,False
+Roadster,Men Bootcut Jeans,1199.0,2999.0,0.6,4.1,165.0,1199.0,2999.0,1650,Bootcut,False
+Peter England Casuals,Men Solid Jeans,1379.0,2299.0,0.4,4.2,186.0,1379.0,2299.0,1860,Other,False
+bigbanana,Men Plus Size Jeans,1311.0,3199.0,0.59,3.7,29.0,1311.0,3199.0,290,Other,False
+PARIS HAMILTON,Men Bootcut Mid-Rise Jeans,899.0,1999.0,0.55,3.8,12.0,899.0,1999.0,120,Bootcut,False
+glitchez,Men Loose Fit Ripped Jeans,639.0,1999.0,0.68,3.8,63.0,639.0,1999.0,630,Loose Fit,False
+Stylecast X Kotty,Men Regular Fit Mid-Rise Jeans,559.0,1999.0,0.72,3.8,114.0,559.0,1999.0,1140,Regular,False
+Urbano Fashion,Men Slim Fit Jeans,674.0,1499.0,0.55,4.0,300.0,674.0,1499.0,3000,Slim,False
+Kotty,Men Stretchable Jeans,619.0,1999.0,0.69,3.8,689.0,619.0,1999.0,6890,Stretch,False
+Dennis Lingo,Straight Fit Mid-Rise Jeans,712.0,2299.0,0.69,4.2,12.0,712.0,2299.0,120,Mid-Rise,False
+Urbano Fashion,Men Relaxed Fit Jeans,1149.0,2299.0,0.5,3.7,711.0,1149.0,2299.0,7110,Relaxed,False
+HERE&NOW,Men Pure Cotton Baggy Jeans,1349.0,2999.0,0.55,2.9,15.0,1349.0,2999.0,150,Pure Cotton,False
+Roadster,Men Loose Light Jeans,831.0,2599.0,0.68,4.4,66.0,831.0,2599.0,660,Other,False
+glitchez,Men Flared Jeans,647.0,2399.0,0.73,3.7,80.0,647.0,2399.0,800,Other,False
+The Indian Garage Co,Men Slim Fit Jeans,873.0,2299.0,0.62,3.8,2700.0,873.0,2299.0,27000,Slim,False
+Bene Kleed,Pure Cotton Straight Fit Jeans,974.0,2499.0,0.61,4.0,1100.0,974.0,2499.0,11000,Straight Fit,False
+HIGHLANDER,Men Tapered Fit Jeans,492.0,1449.0,0.66,3.8,4100.0,492.0,1449.0,41000,Tapered,False
+Roadster,Men Slim Fit Jeans,459.0,999.0,0.54,3.6,756.0,459.0,999.0,7560,Slim,False
