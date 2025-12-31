@@ -19,7 +19,7 @@ The dashboards are designed to answer questions such as:
 
 ## Dataset Summary
 
-- **Source:** The data for this project is sourced from the Kaggle dataset
+- **Source:** The data for this project is sourced from the Kaggle dataset\
   Link: [Myntra Sales Dataset](https://www.kaggle.com/datasets/skmewati/myntra-sales-dataset)
 - **Total Rows:** 52,120
 - **Total Columns:** 8
