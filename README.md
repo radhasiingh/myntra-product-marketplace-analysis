@@ -1,4 +1,4 @@
-# Myntra Product & Marketplace Analysis (Excel + Power BI)
+## Myntra Product & Marketplace Analysis (Excel + Power BI)
 
 ### 📌 Project Overview
 This project analyzes a fashion marketplace product catalog to understand pricing structure, discounting behavior, brand presence, and customer rating patterns at a product (SKU) level.
