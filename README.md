@@ -52,7 +52,6 @@ To ensure interpretable and defensible analysis, the following steps and decisio
 - The dataset represents a static snapshot of the catalog, with no time-based or trend analysis possible.
 
 ### Tools Used
-
 - Microsoft Excel: Data cleaning, transformation, EDA, pivot-based analysis, power query
 - Power BI: Data modeling, DAX measures, interactive dashboards
 
