@@ -29,8 +29,8 @@ To ensure interpretable and defensible analysis, the following steps and decisio
 4. Discount percentage was recalculated using a consistent formula across all products.
 5. Brand names were standardized to enable accurate brand-level aggregation.
 6. Analytical buckets were created for:
-   -- Price ranges
-   -- Rating categories
+   1. Price ranges
+   2. Rating categories
 8. Product fit types were derived from free-text product descriptions using rule-based keyword matching.
 9. Each row was treated as an independent SKU; no aggregation at style or product-family level was attempted.
 
